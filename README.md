@@ -17,7 +17,7 @@ img align="center" alt="Banner" src="https://user-images.githubusercontent.com/2
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <a href="mailto:tiruvarangampankajkumar@gmail.com"><img src="https://img.shields.io/badge/📧_tiruvarangampankajkumar@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
@@ -25,15 +25,15 @@ img align="center" alt="Banner" src="https://user-images.githubusercontent.com/2
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
+  <a href="https://dev.to/pankaj">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://discord.com/users/midhun_n">
+  <a href="https://discord.com/users/pankaj">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://github.com/Midhun-Nk">
+  <a href="https://github.com/pankaj">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -41,7 +41,7 @@ img align="center" alt="Banner" src="https://user-images.githubusercontent.com/2
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/midhun-nk">
+  <a href="https://linkedin.com/in/tiruvarangam-pankaj-kumar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -49,7 +49,7 @@ img align="center" alt="Banner" src="https://user-images.githubusercontent.com/2
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=pankaj&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -62,14 +62,14 @@ img align="center" alt="Banner" src="https://user-images.githubusercontent.com/2
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,python,dart,c,typescript" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,,c," />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flutter,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs" />
 </td>
 
 
@@ -100,16 +100,11 @@ img align="center" alt="Banner" src="https://user-images.githubusercontent.com/2
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=pankajkumar751&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
 
 ## ❤️ Support Me
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/midhun_mike">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
 
