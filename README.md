@@ -42,10 +42,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/
-tiruvarangam-pankaj-kumar-53320a34a
-Vanity URL name
-">
+  <a href="https://www.linkedin.com/in/tiruvarangam-pankaj-kumar-53320a34a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
