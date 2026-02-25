@@ -1,5 +1,3 @@
-
-
 <h3>Front end devloper | MERN • Python • java</h3>
 
 <div align="left">
