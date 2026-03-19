@@ -78,7 +78,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio,gemini" />
 </td>
 </tr>
 </table>
@@ -99,6 +99,6 @@
 ---
 
 ## ❤️ Support Me
-## simply lovely
+##  LH44 
 
 
