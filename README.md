@@ -5,7 +5,8 @@
 
   <p>
     I'm a front end developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.And a student intrested in tech field . MINING ENGINEER who digs out the problems and solve them......
+    
   </p>
 
   <p>
